@@ -1,5 +1,8 @@
 # About me
-### My name is Isaac Fox, and I am currently a Applied Computing and Informatics student at Unversity of Nebraska Omaha. I am a UX Designer with technical experience in HTML/CSS and Python. 
+##### My name is Isaac Fox, and I am currently a Applied Computing and Informatics student at University of Nebraska Omaha. I am a UX Designer with technical experience in HTML/CSS and Python. 
+
+<br>🔭 I’m currently working on a bakery website</br>
+🌱 I’m currently learning about Figma Console MCP
 
 <!--
 **IsaacJFox/IsaacJFox** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
