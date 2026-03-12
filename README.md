@@ -1,4 +1,5 @@
-## Hi there 👋
+# About me
+## My name is Isaac Fox, and I am currently a Applied Computing and Informatics student at Unversity of Nebraska Omaha. I am a UX Designer with technical experience in HTML/CSS and Python. 
 
 <!--
 **IsaacJFox/IsaacJFox** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
